@@ -17,11 +17,6 @@ Python ve `tkinter` kullanılarak geliştirilmiş; işlemci, bellek, depolama ve
 - PyInstaller
 
 ## Çalıştırma
-
-### 1. Hazır Sürüm (.exe)
-Herhangi bir Python kurulumu gerekmeden, repo içindeki `sistem.exe` dosyasına çift tıklayarak doğrudan çalıştırabilirsiniz.
-
-### 2. Kaynak Koddan Çalıştırma
 ```bash
 pip install psutil
 python sistem.py
