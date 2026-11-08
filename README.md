@@ -24,4 +24,4 @@ Herhangi bir Python kurulumu gerekmeden, repo içindeki `sistem.exe` dosyasına 
 ### 2. Kaynak Koddan Çalıştırma
 ```bash
 pip install psutil
-python sistem_monitor_gui.py
+python sistem.py
