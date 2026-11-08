@@ -25,3 +25,5 @@ Herhangi bir Python kurulumu gerekmeden, repo içindeki `sistem.exe` dosyasına 
 ```bash
 pip install psutil
 python sistem.py
+```
+<img width="593" height="731" alt="image" src="https://github.com/user-attachments/assets/62c17715-7a52-4a39-8b07-67eefa064151" />
